@@ -1,0 +1,16 @@
+{
+    "description": "Cha Xin Yuan NFT Sample", 
+    "image": "https://raw.githubusercontent.com/darren-k-chen/TEA_Sample/master/metadata/NFT_Sample.jpg", 
+    "name": "Cha Xin Yuan NFT Sample",
+    "attributes": [
+        {
+            "trait_type": "LOGO",
+            "value": "1"
+        },
+        {
+            "display_type": "date", 
+            "trait_type": "Date of issue", 
+            "value": 1652088888
+        }
+    ]
+}
